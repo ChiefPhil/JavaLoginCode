@@ -1,2 +1,16 @@
 # JavaLoginCode
-This code was written to give users a fair share of inputting their already pre-determined username and password, of which if any is wrong the have another chance to make amends.
+##Login System with Java
+This simple Java program implements a basic login system using a username and password. Users are allowed three attempts to enter the correct credentials before being locked out for a period.
+
+How it Works
+Username and Password Setup:
+The expected username is set to "InternShala".
+The expected password is set to "philip".
+
+Login Attempts:
+This simple Java program implements a basic login system using a username and password. Users are allowed three attempts to enter the correct credentials before being locked out for a period.
+
+How it Works
+Username and Password Setup:
+The expected username is set to "InternShala".
+The expected password is set to "philip".
