@@ -9,7 +9,7 @@ public class LoginCode {
 		
 	        Scanner input = new Scanner(System.in);
 
-	        String name = "InternShala"; 
+	        String name = "Java"; 
 	        String paswword = "philip";
 	 
 	        int count = 0;
